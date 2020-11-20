@@ -1,0 +1,2 @@
+# staticos
+archivosstatticos
